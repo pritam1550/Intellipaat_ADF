@@ -1,0 +1,12 @@
+[{
+    "SouceBaseUrl":"https://raw.githubusercontent.com/pritam1550/Intellipaat_ADF/refs/heads/main/ecdc_data_phase2/",
+    "sourceRelativeUrl":"hospital_admissions.csv",
+    "tgtFileName":"hospital_admissions.csv"
+},
+{
+    "SouceBaseUrl":"https://raw.githubusercontent.com/pritam1550/Intellipaat_ADF/refs/heads/main/",
+    "sourceRelativeUrl":"cases_deaths.csv",
+    "tgtFileName":"cases_deaths.csv"
+}
+
+]

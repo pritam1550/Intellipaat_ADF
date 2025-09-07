@@ -1,0 +1,10 @@
+[{
+    "sourceRelativeUrl":"hospital_admissions.csv",
+    "tgtFileName":"hospital_admissions.csv"
+},
+{
+    "sourceRelativeUrl":"cases_deaths.csv",
+    "tgtFileName":"cases_deaths.csv"
+}
+
+]
